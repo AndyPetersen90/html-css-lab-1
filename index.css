@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(102, 102, 102);
+    
+}
+
+h1, h2 {
+    text-align: center;
+    background-color: rgba(122, 15, 1, 0.764);
+    margin: 0px;
+    padding: 0px;
+    color: rgb(255, 255, 255);
+}
+
+body{
+    align-content: center;
+    align-items: center;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0, 0, 0, 0.25)),url(https://images.vectorhq.com/images/previews/b23/spades-clubs-diamonds-and-hearts-psd-468603.png);
+}
+
+h3, h4, ul, ol, li, p{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    color: azure;
+}
+
+img{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
